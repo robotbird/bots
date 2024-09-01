@@ -1,0 +1,16 @@
+{
+  "bots": [
+    {
+      "id": "1",
+      "bot_name": "botghost-wallpaper",
+      "bot_title": "机器人壁纸",
+      "bot_icon": "/icon.png",
+      "bot_status": "0",
+      "bot_author": "botghost",
+      "bot_description": "机器人壁纸",
+      "bot_version": "0.1.7",
+      "install_time": "",
+      "userId": "1"
+    }
+  ]
+}
